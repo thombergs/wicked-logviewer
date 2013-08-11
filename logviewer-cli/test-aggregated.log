@@ -1,0 +1,549 @@
+2273 NO_STACKTRACE WARN [com.csc.evergabe.server.service.ESenderContextImpl] Nachricht ist kein Reply gemäss der Spezifikation, Subject =Undelivered Mail Returned to Sender
+1509 NO_STACKTRACE WARN [org.hibernate.hql.ast.QueryTranslatorImpl] firstResult/maxResults specified with collection fetch; applying in memory!
+561 NO_STACKTRACE WARN [com.csc.evergabe.server.service.ESenderContextImpl] Nachricht ist kein Reply gemäss der Spezifikation, Subject =Warning: could not send message for past 4 hours
+561 NO_STACKTRACE WARN [com.csc.evergabe.server.service.ESenderContextImpl] Nachricht ist kein Reply gemäss der Spezifikation, Subject =Abwesenheitsnotiz: Notification from eVergabe eSender
+163 NO_STACKTRACE WARN [org.hibernate.engine.StatefulPersistenceContext.ProxyWarnLog] Narrowing proxy to class de.bund.bescha.evergabe.server.persistence.entity.core.Tenderer - this operation breaks ==
+124 NO_STACKTRACE INFO [com.csc.evergabe.server.timer.TimerBeanUpdateTimeboxConfig] Ende execute Service TimerBeanUpdateTimeboxConfig
+124 NO_STACKTRACE INFO [com.csc.evergabe.server.timer.TimerBeanUpdateTimeboxConfig] Beginn execute Service TimerBeanUpdateTimeboxConfig
+123 NO_STACKTRACE INFO [com.csc.evergabe.server.timer.TimerBeanUpdateStatistikenGueltigkeit] Ende execute Service TimerBeanUpdateStatistikenGueltigkeit
+123 NO_STACKTRACE INFO [com.csc.evergabe.server.timer.TimerBeanUpdateStatistikenGueltigkeit] Beginn execute Service TimerBeanUpdateStatistikenGueltigkeit
+108 NO_STACKTRACE ERROR [com.csc.evergabe.server.web.util.JSPLogging] /jsp/404.jsp
+65 STACKTRACE ERROR [com.csc.evergabe.server.valueobjects.TechnicalException] ERRORCODE 10101200: Sie sind leider nicht am Server angemeldet. Dieser Fehler kann beispielsweise durch eine Zeitüberschreitung (Timeout) oder den Neustart des Servers entstehen. Bitte wiederholen Sie Ihre Aktion nach erneuter Anmeldung.Fehlerklasse:	class com.csc.evergabe.server.valueobjects.exception.NotLoggedInException
+Sie sind leider nicht am Server angemeldet. Dieser Fehler kann beispielsweise durch eine Zeitüberschreitung (Timeout) oder den Neustart des Servers entstehen. Bitte wiederholen Sie Ihre Aktion nach erneuter Anmeldung.
+58 NO_STACKTRACE ERROR [com.csc.evergabe.server.servlets.AnACommunication] Sie sind leider nicht am Server angemeldet. Dieser Fehler kann beispielsweise durch eine Zeitüberschreitung (Timeout) oder den Neustart des Servers entstehen. Bitte wiederholen Sie Ihre Aktion nach erneuter Anmeldung.
+39 STACKTRACE ERROR [com.csc.evergabe.server.web.util.JSPLogging] Fehler im Content
+Das geforderte Verfahren ist nicht öffentlich sichtbar.
+39 STACKTRACE ERROR [org.apache.catalina.core.ContainerBase.[jboss.web].[localhost].[/].[org.apache.jsp.jsp.showAusschreibung_jsp]] Servlet.service() for servlet org.apache.jsp.jsp.showAusschreibung_jsp threw exception
+Das geforderte Verfahren ist nicht öffentlich sichtbar.
+29 STACKTRACE ERROR [com.csc.evergabe.server.web.Controller] Fehler in doPost:
+javax.servlet.ServletException: Das geforderte Verfahren ist nicht öffentlich sichtbar.
+29 STACKTRACE ERROR [com.csc.evergabe.server.web.util.JSPLogging] /jsp/errorPage.jsp
+javax.servlet.ServletException: Das geforderte Verfahren ist nicht öffentlich sichtbar.
+23 NO_STACKTRACE WARN [org.apache.tomcat.util.http.Parameters] Parameters: Invalid chunk ignored.
+22 STACKTRACE ERROR [com.csc.evergabe.server.web.util.JSPLogging] /jsp/errorPage.jsp
+Das geforderte Verfahren ist nicht öffentlich sichtbar.
+17 NO_STACKTRACE INFO [org.apache.myfaces.config.annotation.DefaultLifecycleProviderFactory] Shutdown Hook) No ExternalContext using fallback LifecycleProvider.
+14 NO_STACKTRACE ERROR [com.csc.evergabe.server.web.util.JSPLogging] /jsp/errorPage.jsp
+12 NO_STACKTRACE WARN [org.hibernate.engine.StatefulPersistenceContext.ProxyWarnLog] Narrowing proxy to class de.bund.bescha.evergabe.server.persistence.entity.core.SecondaryUser - this operation breaks ==
+12 NO_STACKTRACE WARN [org.apache.fop.fo.FONode] Warning(Unknown location): fo:table, table-layout="auto" is currently not supported by FOP
+11 NO_STACKTRACE INFO [com.csc.evergabe.server.timer.TimerBeanUpdateCLRsScheduler] Beginn execute Service TimerBeanUpdateCLRsScheduler
+11 NO_STACKTRACE INFO [com.csc.evergabe.server.timer.TimerBeanUpdateCLRsScheduler] Ende execute Service TimerBeanUpdateCLRsScheduler
+8 NO_STACKTRACE ERROR [com.csc.evergabe.server.servlets.AnACommunication] Ihr Mitarbeiterstamm ist bereits aktiv in dem Verfahren.
+8 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthObserver] (FD)) ProtokollDown:org.jgroups.protocols.MERGE2@4b2146b9
+8 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthObserver] (PING)) ProtokollDown:org.jgroups.protocols.PING@7ce1653a
+8 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthObserver] (UDP)) ProtokollDown:UDP(local address: 10.20.101.4:54153)
+7 NO_STACKTRACE ERROR [com.csc.evergabe.server.servlets.OBACommunication] Sie sind leider nicht am Server angemeldet. Dieser Fehler kann beispielsweise durch eine Zeitüberschreitung (Timeout) oder den Neustart des Servers entstehen. Bitte wiederholen Sie Ihre Aktion nach erneuter Anmeldung.
+5 NO_STACKTRACE WARN [org.hibernate.engine.StatefulPersistenceContext.ProxyWarnLog] Narrowing proxy to class de.bund.bescha.evergabe.server.persistence.entity.core.Operator - this operation breaks ==
+4 NO_STACKTRACE INFO [STDOUT] ________________________________________________________________________________
+4 NO_STACKTRACE INFO [STDOUT] ################################################################################
+4 NO_STACKTRACE INFO [org.jboss.ejb3.deployers.JBossASKernel] 	Class:javax.jms.MessageListener
+4 NO_STACKTRACE INFO [org.jboss.ejb3.deployers.JBossASKernel] with dependencies:
+4 NO_STACKTRACE INFO [org.jboss.ejb3.deployers.JBossASKernel] 	jboss.ejb:service=EJBTimerService
+4 NO_STACKTRACE INFO [org.jboss.ejb3.deployers.JBossASKernel] 	jndi:null
+4 NO_STACKTRACE INFO [org.jboss.ejb3.deployers.JBossASKernel] and demands:
+4 NO_STACKTRACE INFO [org.jboss.ejb3.deployers.JBossASKernel] and supplies:
+4 NO_STACKTRACE INFO [com.csc.evergabe.server.timer.TimerBeanUpdateStatistiken] Ende execute Service TimerBeanUpdateStatistiken
+4 NO_STACKTRACE INFO [com.csc.evergabe.server.timer.TimerBeanUpdateStatistiken] Beginn execute Service TimerBeanUpdateStatistiken
+3 NO_STACKTRACE ERROR [com.csc.evergabe.server.servlets.AnACommunication] Das angegebene Nutzername/Passwort-Paar ist ungültig.
+3 NO_STACKTRACE WARN [org.hibernate.ejb.Ejb3Configuration] Overriding hibernate.transaction.factory_class is dangerous, this might break the EJB3 specification implementation
+2 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthLayer] (FD)) down(Event[type=SUSPECT, arg=10.20.101.2:36464], 0)
+2 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthLayer] (UDP)) down(Event[type=SUSPECT, arg=10.20.101.2:36464], 0)
+2 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthLayer] (PING)) down(Event[type=SUSPECT, arg=10.20.101.2:36464], 0)
+2 STACKTRACE ERROR [com.csc.evergabe.server.servlets.CommunicationBase] Fehler beim Senden der Daten vom e-Vergabe Server an den Client. Fehlerursache: null Fehlertyp:org.apache.catalina.connector.ClientAbortException
+ClientAbortException:  java.net.SocketException: Broken pipe
+2 STACKTRACE ERROR [com.csc.evergabe.server.web.util.JSPLogging] /jsp/errorPage.jsp
+java.lang.IllegalStateException: getAttribute: Session already invalidated
+2 STACKTRACE ERROR [org.apache.catalina.core.ContainerBase.[jboss.web].[localhost].[/].[org.apache.jsp.jsp._404_jsp]] Servlet.service() for servlet org.apache.jsp.jsp._404_jsp threw exception
+java.lang.IllegalStateException: getAttribute: Session already invalidated
+2 NO_STACKTRACE INFO [STDOUT] Private key:
+2 NO_STACKTRACE INFO [STDOUT] The generated RSA key-pair is:
+2 NO_STACKTRACE INFO [STDOUT] Public key:
+2 NO_STACKTRACE INFO [org.jboss.ejb3.deployers.Ejb3DependenciesDeployer] Encountered deployment AbstractVFSDeploymentContext@1010083074{vfsfile:/opt/evergabe/jboss-as/server/default/deploy/eVergabe.5.3.0.3024.ear/xve-core.jar}
+2 NO_STACKTRACE INFO [org.jboss.ejb3.deployers.Ejb3DependenciesDeployer] Encountered deployment AbstractVFSDeploymentContext@607995183{vfsfile:/opt/evergabe/jboss-as/server/default/deploy/eVergabe.5.3.0.3024.ear/xve-ejb-evc.jar}
+2 NO_STACKTRACE INFO [org.jboss.ejb3.deployers.Ejb3DependenciesDeployer] Encountered deployment AbstractVFSDeploymentContext@311315538{vfsfile:/opt/evergabe/jboss-as/server/default/deploy/eVergabe.5.3.0.3024.ear/vms-ejb.jar}
+2 NO_STACKTRACE INFO [org.jboss.varia.scheduler.Scheduler] No repetitions left because start date is in the past and could not be reached by Initial Repetitions * Schedule Period
+2 NO_STACKTRACE INFO [org.apache.myfaces.webapp.StartupServletContextListener] Checking for plugins:org.apache.myfaces.FACES_INIT_PLUGINS
+2 NO_STACKTRACE INFO [org.apache.myfaces.webapp.StartupServletContextListener] Shutdown Hook) Checking for plugins:org.apache.myfaces.FACES_INIT_PLUGINS
+2 NO_STACKTRACE WARN [com.csc.evergabe.server.ejb.UserBean] Transaktion konnte nicht zurückgerollt werden!
+2 NO_STACKTRACE WARN [org.jgroups.protocols.pbcast.STABLE] ResumeTask resumed message garbage collection - this should be done by a RESUME_STABLE event; check why this event was not received (or increase max_suspend_time for large state transfers)
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.vms.ejb.AbstractVMSMessageBean] com.csc.evergabe.server.vmscommon.response.impl.EvergabeResponse@31e7c59b
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.vms.ejb.AbstractVMSMessageBean] com.csc.evergabe.server.vmscommon.response.impl.EvergabeResponse@6ec5cac0
+1 STACKTRACE ERROR [org.apache.catalina.core.ContainerBase.[jboss.web].[localhost]] Exception Processing ErrorPage[errorCode=404, location=/jsp/404.jsp]
+java.lang.IllegalStateException: getAttribute: Session already invalidated
+1 STACKTRACE ERROR [org.apache.catalina.core.ContainerBase.[jboss.web].[localhost].[/].[org.apache.jsp.jsp.health_jsp]] Servlet.service() for servlet org.apache.jsp.jsp.health_jsp threw exception
+Health Check nicht ok. Wert: 16. Fehler:  <Health Schlüssel nicht ok>
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.servlets.AnACommunication] Bei der Übertragung der Daten vom Server zum Client ist ein schwerer Fehler aufgetreten.
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.servlets.AnACommunication] Sie haben dreimal ein falsches Passwort eingegeben. Ihr Nutzerkonto ist gesperrt. Es kann nur durch Ihren zuständigen Hauptnutzer wieder entsperrt werden.
+1 STACKTRACE ERROR [com.csc.evergabe.server.servlets.AnACommunication] Exception in ANA Servlet. Fehler: Source does not fit in dest Typ:java.lang.IndexOutOfBoundsException
+java.lang.IndexOutOfBoundsException: Source does not fit in dest
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.servlets.AnACommunication] Schwerer Fehler, der Benutzer ist nicht gesetzt. Vermutlich wurde getLoginInfo() nicht vorher aufgerufen.
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthLayer] (PING)) down(Event[type=SUSPECT, arg=10.20.101.101:53700], 0)
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthLayer] (FD)) down(Event[type=SUSPECT, arg=10.20.101.3:41469], 0)
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthLayer] (FD)) down(Event[type=SUSPECT, arg=10.20.101.104:51567], 0)
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthLayer] (PING)) down(Event[type=SUSPECT, arg=10.20.101.3:41469], 0)
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthLayer] (UDP)) down(Event[type=SUSPECT, arg=10.20.101.104:51567], 0)
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthLayer] (UDP)) down(Event[type=SUSPECT, arg=10.20.101.102:45736], 0)
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthLayer] (UDP)) down(Event[type=SUSPECT, arg=10.20.101.3:41469], 0)
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthLayer] (PING)) down(Event[type=SUSPECT, arg=10.20.101.104:51567], 0)
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthLayer] (FD)) down(Event[type=SUSPECT, arg=10.20.101.1:37414], 0)
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthLayer] (UDP)) down(Event[type=SUSPECT, arg=10.20.101.1:37414], 0)
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthLayer] (UDP)) down(Event[type=SUSPECT, arg=10.20.101.103:45611], 0)
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthLayer] (PING)) down(Event[type=SUSPECT, arg=10.20.101.103:45611], 0)
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthLayer] (FD)) down(Event[type=SUSPECT, arg=10.20.101.103:45611], 0)
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthLayer] (UDP)) down(Event[type=SUSPECT, arg=10.20.101.101:53700], 0)
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthLayer] (FD)) down(Event[type=SUSPECT, arg=10.20.101.101:53700], 0)
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthLayer] (FD)) down(Event[type=SUSPECT, arg=10.20.101.102:45736], 0)
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthLayer] (PING)) down(Event[type=SUSPECT, arg=10.20.101.1:37414], 0)
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.helper.cluster.health.HealthLayer] (PING)) down(Event[type=SUSPECT, arg=10.20.101.102:45736], 0)
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.web.status.StatusInformation] Health Schlüssel nicht ok
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.web.status.StatusInformation] Health Check nicht ok. Wert: 16
+1 STACKTRACE ERROR [com.csc.evergabe.server.web.util.JSPLogging] /jsp/errorPage.jsp
+Health Check nicht ok. Wert: 16. Fehler:  <Health Schlüssel nicht ok>
+1 STACKTRACE ERROR [com.csc.evergabe.server.valueobjects.TechnicalException] ERRORCODE 10200064: Health Check nicht ok. Wert: 16. Fehler:  <Health Schlüssel nicht ok> Fehlerklasse:	class com.csc.evergabe.server.valueobjects.TechnicalException
+Health Check nicht ok. Wert: 16. Fehler:  <Health Schlüssel nicht ok>
+1 STACKTRACE ERROR [org.apache.catalina.core.ContainerBase.[jboss.web].[localhost].[/].[downloadservlet]] Servlet.service() for servlet downloadservlet threw exception
+java.lang.IllegalStateException: getAttribute: Session already invalidated
+1 STACKTRACE ERROR [org.apache.catalina.core.ContainerBase.[jboss.web].[localhost].[/].[AnACommunication]] Servlet.service() for servlet AnACommunication threw exception
+java.net.SocketException: Broken pipe
+1 STACKTRACE ERROR [org.apache.catalina.core.ContainerBase.[jboss.web].[localhost].[/].[org.apache.jsp.jsp.showAusschreibung_jsp]] Servlet.service() for servlet org.apache.jsp.jsp.showAusschreibung_jsp threw exception
+java.lang.IllegalStateException: getAttribute: Session already invalidated
+1 NO_STACKTRACE ERROR [org.apache.myfaces.shared_impl.config.MyfacesConfig] Both MyFaces and the RI are on your classpath. Please make sure to use only one of the two JSF-implementations.
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.servlets.OBACommunication] Die eingetragene Nutzerkennung ist nicht bekannt. Korrigieren Sie Ihre Eingabe oder setzen Sie sich mit dem Plattform-Betreiber in Verbindung.
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.servlets.OBACommunication] Der Nutzer existiert nicht, hat sich deregistriert oder ist gesperrt.
+1 NO_STACKTRACE ERROR [com.csc.evergabe.server.servlets.OBACommunication] Das eingegebene Passwort ist falsch. Bitte korrigieren Sie Ihre Eingabe.
+1 NO_STACKTRACE INFO [STDOUT] PKCS#11 key object:
+Object Class: Public Key
+Token: false
+Private: true
+Modifiable: true
+Label: <NULL_PTR>
+Key Type: RSA
+ID: <NULL_PTR>
+Start Date: <NULL_PTR>
+End Date: <NULL_PTR>
+Derive: false
+Local: true
+Key Generation Mechanism: CKM_RSA_PKCS_KEY_PAIR_GEN
+Allowed Mechanisms: <Attribute not present>
+Subject (DER, hex): <Attribute not present>
+Encrypt: true
+Verify: true
+Verify Recover: true
+Wrap: true
+Trusted: false
+Wrap Template: <Attribute not present>
+Modulus (hex): d47ea4d2742a68820f7a1200ab718ba108a3de8f11adebd876429dc66aebbe560a2d25c7d5d4b1012727e8c804e6529f4ac57097e23ecdb21e68c07557202c59c02e7214a3e215c2c5e7f32dc606e22103012c70764828c34435748e26ac40192dd0baba410d9c8fcd39cbda055cfba82cad74797765541204c8793ac7d2ffa6f727bb3f4b4d68f07f19aa022df8f6b3b91ab9ed63ffaf4951eee3db6b11bd4b9581ef5a376fdcaf497984ba3f24a28a8312b0c876c5793623de238103d2433267760599ceef5624f07de8422af959876f92fb6c8bcae890d6e06d6261f80335b1755513da1acfaf2badd1a7d871ef84b4f45ed934ecef187872d144f94eb4b9
+Public Exponent (hex): 010001
+Modulus Bits (dec): 2048
+on token:
+Label: e-Vergabe 001
+Manufacturer ID: Utimaco Safeware AG
+Model: CryptoServer
+Serial Number: CS10    CS328066
+Random Number Generator: true
+Write protected: false
+Login required: true
+User PIN initialized: true
+Restore Key not needed: false
+Clock on Token: true
+Protected Authentication Path: false
+Dual Crypto Operations: true
+Token initialized: true
+Secondary Authentication: false
+User PIN-Count low: false
+User PIN final Try: false
+User PIN locked: false
+User PIN to be changed: false
+Security Officer PIN-Count low: false
+Security Officer PIN final Try: false
+Security Officer PIN locked: false
+Security Officer PIN to be changed: false
+Maximum Session Count: 256
+Session Count: 7
+Maximum Read/Write Session Count: 256
+Read/Write Session Count: 7
+Maximum PIN Length: 255
+Minimum PIN Length: 0
+Total Public Memory: -1
+Free Public Memory: -1
+Total Private Memory: -1
+Free Private Memory: -1
+Hardware Version: 2.00
+Firmware Version: 1.06
+Time: Fri Aug 02 08:55:37 CEST 2013
+1 NO_STACKTRACE INFO [STDOUT] PKCS#11 key object:
+Object Class: Public Key
+Token: false
+Private: true
+Modifiable: true
+Label: <NULL_PTR>
+Key Type: RSA
+ID: <NULL_PTR>
+Start Date: <NULL_PTR>
+End Date: <NULL_PTR>
+Derive: false
+Local: true
+Key Generation Mechanism: CKM_RSA_PKCS_KEY_PAIR_GEN
+Allowed Mechanisms: <Attribute not present>
+Subject (DER, hex): <Attribute not present>
+Encrypt: true
+Verify: true
+Verify Recover: true
+Wrap: true
+Trusted: false
+Wrap Template: <Attribute not present>
+Modulus (hex): 866d5277390be59f03a95b2d7f6995429983feebc5c22c2ccd9395cf388b0b7524643f41257ae5f088b00089331f24fc26b54480f977d0201fb002bc12eafd89962b7ed526b4d778427888964e9023a090340b0d0dcfc33310bfcc9891cc5fa4b330d68b7b3fa2e319375e0caacb6fca0eb853816c33fe7108eb7fb98ca0f7b3364e9b09848c72b4454c1052e5f0dc3dcd955ba0888b1697ecc458cc3d72a5d310722d4488bcb1b2922aa11d4afac0f2f5fff3b73bf7b9886f1301cf81ace8afa64e9eb34aab740dfad8993a89dececf47e58e98ab827995dbd8ebce8b50155f91c2c1da81717cc22cd7b138c349e91e5ae834f33aa2201b1dc544ca2eb73d21
+Public Exponent (hex): 010001
+Modulus Bits (dec): 2048
+on token:
+Label: Slot 3
+Manufacturer ID: Utimaco Safeware AG
+Model: CryptoServer
+Serial Number: CS50    CS329817
+Random Number Generator: true
+Write protected: false
+Login required: true
+User PIN initialized: true
+Restore Key not needed: false
+Clock on Token: true
+Protected Authentication Path: false
+Dual Crypto Operations: true
+Token initialized: true
+Secondary Authentication: false
+User PIN-Count low: false
+User PIN final Try: false
+User PIN locked: false
+User PIN to be changed: false
+Security Officer PIN-Count low: false
+Security Officer PIN final Try: false
+Security Officer PIN locked: false
+Security Officer PIN to be changed: false
+Maximum Session Count: 256
+Session Count: 7
+Maximum Read/Write Session Count: 256
+Read/Write Session Count: 7
+Maximum PIN Length: 255
+Minimum PIN Length: 0
+Total Public Memory: -1
+Free Public Memory: -1
+Total Private Memory: -1
+Free Private Memory: -1
+Hardware Version: 2.00
+Firmware Version: 1.01
+Time: Fri Aug 02 10:19:52 CEST 2013
+1 NO_STACKTRACE INFO [STDOUT] PKCS#11 key object:
+Object Class: Private Key
+Token: true
+Private: true
+Modifiable: true
+Label: 13754270855601777692895312172461380002406private1687902133
+Key Type: RSA
+ID: <NULL_PTR>
+Start Date: <NULL_PTR>
+End Date: <NULL_PTR>
+Derive: false
+Local: true
+Key Generation Mechanism: CKM_RSA_PKCS_KEY_PAIR_GEN
+Allowed Mechanisms: <Attribute not present>
+Subject (DER, hex): <Attribute not present>
+Sensitive: true
+Secondary Authentication: <Attribute not present>
+Secondary Authentication PIN Flags: <Attribute not present>
+Decrypt: true
+Sign: true
+Sign Recover: true
+Unwrap: true
+Extractable: true
+Always Sensitive: true
+Never Extractable: false
+Wrap With Trusted: false
+Unwrap Template: <Attribute not present>
+Always Authenticate: false
+Modulus (hex): d47ea4d2742a68820f7a1200ab718ba108a3de8f11adebd876429dc66aebbe560a2d25c7d5d4b1012727e8c804e6529f4ac57097e23ecdb21e68c07557202c59c02e7214a3e215c2c5e7f32dc606e22103012c70764828c34435748e26ac40192dd0baba410d9c8fcd39cbda055cfba82cad74797765541204c8793ac7d2ffa6f727bb3f4b4d68f07f19aa022df8f6b3b91ab9ed63ffaf4951eee3db6b11bd4b9581ef5a376fdcaf497984ba3f24a28a8312b0c876c5793623de238103d2433267760599ceef5624f07de8422af959876f92fb6c8bcae890d6e06d6261f80335b1755513da1acfaf2badd1a7d871ef84b4f45ed934ecef187872d144f94eb4b9
+Public Exponent (hex): 010001
+Private Exponent (hex): <Value is sensitive>
+Prime 1 (hex): <Value is sensitive>
+Prime 2 (hex): <Value is sensitive>
+Exponent 1 (hex): <Value is sensitive>
+Exponent 2 (hex): <Value is sensitive>
+Coefficient (hex): <Value is sensitive>
+on token:
+Label: e-Vergabe 001
+Manufacturer ID: Utimaco Safeware AG
+Model: CryptoServer
+Serial Number: CS10    CS328066
+Random Number Generator: true
+Write protected: false
+Login required: true
+User PIN initialized: true
+Restore Key not needed: false
+Clock on Token: true
+Protected Authentication Path: false
+Dual Crypto Operations: true
+Token initialized: true
+Secondary Authentication: false
+User PIN-Count low: false
+User PIN final Try: false
+User PIN locked: false
+User PIN to be changed: false
+Security Officer PIN-Count low: false
+Security Officer PIN final Try: false
+Security Officer PIN locked: false
+Security Officer PIN to be changed: false
+Maximum Session Count: 256
+Session Count: 7
+Maximum Read/Write Session Count: 256
+Read/Write Session Count: 7
+Maximum PIN Length: 255
+Minimum PIN Length: 0
+Total Public Memory: -1
+Free Public Memory: -1
+Total Private Memory: -1
+Free Private Memory: -1
+Hardware Version: 2.00
+Firmware Version: 1.06
+Time: Fri Aug 02 08:55:37 CEST 2013
+1 NO_STACKTRACE INFO [STDOUT] Not Configuring Log4j, using jBoss log4j ***************************
+1 NO_STACKTRACE INFO [STDOUT] PKCS#11 key object:
+Object Class: Private Key
+Token: true
+Private: true
+Modifiable: true
+Label: 137543163821716176498911145075981176830452private168088029
+Key Type: RSA
+ID: <NULL_PTR>
+Start Date: <NULL_PTR>
+End Date: <NULL_PTR>
+Derive: false
+Local: true
+Key Generation Mechanism: CKM_RSA_PKCS_KEY_PAIR_GEN
+Allowed Mechanisms: <Attribute not present>
+Subject (DER, hex): <Attribute not present>
+Sensitive: true
+Secondary Authentication: <Attribute not present>
+Secondary Authentication PIN Flags: <Attribute not present>
+Decrypt: true
+Sign: true
+Sign Recover: true
+Unwrap: true
+Extractable: true
+Always Sensitive: true
+Never Extractable: false
+Wrap With Trusted: false
+Unwrap Template: <Attribute not present>
+Always Authenticate: false
+Modulus (hex): 866d5277390be59f03a95b2d7f6995429983feebc5c22c2ccd9395cf388b0b7524643f41257ae5f088b00089331f24fc26b54480f977d0201fb002bc12eafd89962b7ed526b4d778427888964e9023a090340b0d0dcfc33310bfcc9891cc5fa4b330d68b7b3fa2e319375e0caacb6fca0eb853816c33fe7108eb7fb98ca0f7b3364e9b09848c72b4454c1052e5f0dc3dcd955ba0888b1697ecc458cc3d72a5d310722d4488bcb1b2922aa11d4afac0f2f5fff3b73bf7b9886f1301cf81ace8afa64e9eb34aab740dfad8993a89dececf47e58e98ab827995dbd8ebce8b50155f91c2c1da81717cc22cd7b138c349e91e5ae834f33aa2201b1dc544ca2eb73d21
+Public Exponent (hex): 010001
+Private Exponent (hex): <Value is sensitive>
+Prime 1 (hex): <Value is sensitive>
+Prime 2 (hex): <Value is sensitive>
+Exponent 1 (hex): <Value is sensitive>
+Exponent 2 (hex): <Value is sensitive>
+Coefficient (hex): <Value is sensitive>
+on token:
+Label: Slot 3
+Manufacturer ID: Utimaco Safeware AG
+Model: CryptoServer
+Serial Number: CS50    CS329817
+Random Number Generator: true
+Write protected: false
+Login required: true
+User PIN initialized: true
+Restore Key not needed: false
+Clock on Token: true
+Protected Authentication Path: false
+Dual Crypto Operations: true
+Token initialized: true
+Secondary Authentication: false
+User PIN-Count low: false
+User PIN final Try: false
+User PIN locked: false
+User PIN to be changed: false
+Security Officer PIN-Count low: false
+Security Officer PIN final Try: false
+Security Officer PIN locked: false
+Security Officer PIN to be changed: false
+Maximum Session Count: 256
+Session Count: 7
+Maximum Read/Write Session Count: 256
+Read/Write Session Count: 7
+Maximum PIN Length: 255
+Minimum PIN Length: 0
+Total Public Memory: -1
+Free Public Memory: -1
+Total Private Memory: -1
+Free Private Memory: -1
+Hardware Version: 2.00
+Firmware Version: 1.01
+Time: Fri Aug 02 10:19:52 CEST 2013
+1 NO_STACKTRACE INFO [STDOUT] (GMS))
+-------------------------------------------------------
+GMS: address is 10.20.101.4:35689
+-------------------------------------------------------
+1 NO_STACKTRACE INFO [STDOUT] Java-Version=1.7.0_17 eVergabe-Version=5.3.0.3024 gefunden.
+1 NO_STACKTRACE INFO [org.apache.catalina.core.AprLifecycleListener] The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /opt/evergabe/jboss-as/bin/native/bin
+1 NO_STACKTRACE INFO [org.apache.catalina.startup.ContextConfig] WARNING: Security role name eSenderAdmin used in an <auth-constraint> without being defined in a <security-role>
+1 NO_STACKTRACE INFO [org.apache.catalina.startup.ContextConfig] WARNING: Security role name diese_rolle_gibt_es_absichtlich_nicht used in an <auth-constraint> without being defined in a <security-role>
+1 NO_STACKTRACE INFO [org.jboss.bootstrap.microcontainer.ServerImpl] TCP Connection(2)-10.20.101.4) Shutting down the server, blockingShutdown: false
+1 NO_STACKTRACE INFO [org.jboss.bootstrap.microcontainer.ServerImpl] Server exit(0) called
+1 NO_STACKTRACE INFO [org.jboss.bootstrap.microcontainer.ServerImpl] Shutdown Hook) Shutdown complete
+1 NO_STACKTRACE INFO [org.jboss.bootstrap.microcontainer.ServerImpl] Shutdown Hook) Runtime shutdown hook called, forceHalt: true
+1 NO_STACKTRACE INFO [org.jboss.bootstrap.microcontainer.ServerImpl] JBoss (Microcontainer) [5.2.0 (build: SVNTag=JBPAPP_5_2_0 date=201211232041)] Started in 1m:23s:104ms
+1 NO_STACKTRACE INFO [com.csc.evergabe.server.helper.cluster.JGroupService] ==========================================================================
+1 NO_STACKTRACE INFO [com.csc.evergabe.server.helper.cluster.JGroupService] cluster.name=Produktionscluster_PROD connected
+1 NO_STACKTRACE INFO [com.csc.evergabe.server.helper.cluster.JGroupService] Genug gewartet: [10.20.101.101:44866, 10.20.101.102:46779, 10.20.101.103:55814, 10.20.101.104:48069, 10.20.101.1:58442, 10.20.101.2:40288, 10.20.101.3:43240, 10.20.101.4:35689]
+1 NO_STACKTRACE INFO [com.csc.evergabe.server.helper.cluster.JGroupService] cluster.name=Produktionscluster_PROD
+1 NO_STACKTRACE INFO [com.csc.evergabe.server.timer.TimerBeanUpdateAnzahlVerfahren] Ende execute Service TimerBeanUpdateAnzahlVerfahren
+1 NO_STACKTRACE INFO [com.csc.evergabe.server.timer.TimerBeanUpdateAnzahlVerfahren] Beginn execute Service TimerBeanUpdateAnzahlVerfahren
+1 NO_STACKTRACE INFO [org.jboss.web.WebService] Using RMI server codebase: http://10.20.101.4:8083/
+1 NO_STACKTRACE INFO [org.jboss.resource.connectionmanager.ConnectionFactoryBindingService] Shutdown Hook) Unbound ConnectionManager 'jboss.jca:service=DataSourceBinding,name=XveDataSource' from JNDI name 'java:XveDataSource'
+1 NO_STACKTRACE INFO [org.jboss.resource.connectionmanager.ConnectionFactoryBindingService] Shutdown Hook) Unbound ConnectionManager 'jboss.jca:service=ConnectionFactoryBinding,name=JmsXA' from JNDI name 'java:JmsXA'
+1 NO_STACKTRACE INFO [org.jboss.resource.connectionmanager.ConnectionFactoryBindingService] Shutdown Hook) Unbound ConnectionManager 'jboss.jca:service=DataSourceBinding,name=DefaultDS' from JNDI name 'java:DefaultDS'
+1 NO_STACKTRACE INFO [org.jboss.resource.connectionmanager.ConnectionFactoryBindingService] Bound ConnectionManager 'jboss.jca:service=DataSourceBinding,name=DefaultDS' to JNDI name 'java:DefaultDS'
+1 NO_STACKTRACE INFO [org.jboss.resource.connectionmanager.ConnectionFactoryBindingService] Shutdown Hook) Unbound ConnectionManager 'jboss.jca:service=DataSourceBinding,name=EVergabeTxDataSource' from JNDI name 'java:EVergabeTxDataSource'
+1 NO_STACKTRACE INFO [org.jboss.resource.connectionmanager.ConnectionFactoryBindingService] Bound ConnectionManager 'jboss.jca:service=DataSourceBinding,name=XveDataSource' to JNDI name 'java:XveDataSource'
+1 NO_STACKTRACE INFO [org.jboss.resource.connectionmanager.ConnectionFactoryBindingService] Bound ConnectionManager 'jboss.jca:service=ConnectionFactoryBinding,name=JmsXA' to JNDI name 'java:JmsXA'
+1 NO_STACKTRACE INFO [org.jboss.resource.connectionmanager.ConnectionFactoryBindingService] Bound ConnectionManager 'jboss.jca:service=DataSourceBinding,name=EVergabeTxDataSource' to JNDI name 'java:EVergabeTxDataSource'
+1 NO_STACKTRACE INFO [org.quartz.impl.StdSchedulerFactory] Quartz scheduler version: 1.5.2
+1 NO_STACKTRACE INFO [org.quartz.impl.StdSchedulerFactory] Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+1 NO_STACKTRACE INFO [org.apache.catalina.core.StandardService] Starting service jboss.web
+1 NO_STACKTRACE INFO [org.apache.catalina.core.StandardService] Shutdown Hook) Stopping service jboss.web
+1 NO_STACKTRACE INFO [org.apache.coyote.http11.Http11Protocol] Shutdown Hook) Stopping Coyote HTTP/1.1 on http-10.20.101.4-8080
+1 NO_STACKTRACE INFO [org.apache.coyote.http11.Http11Protocol] Shutdown Hook) Pausing Coyote HTTP/1.1 on http-10.20.101.4-8080
+1 NO_STACKTRACE INFO [org.apache.coyote.http11.Http11Protocol] Starting Coyote HTTP/1.1 on http-10.20.101.4-8080
+1 NO_STACKTRACE INFO [org.apache.coyote.http11.Http11Protocol] Initializing Coyote HTTP/1.1 on http-10.20.101.4-8080
+1 NO_STACKTRACE INFO [org.jboss.ejb3.deployers.JBossASKernel] Created KernelDeployment for: xve-ejb-evc.jar
+1 NO_STACKTRACE INFO [org.jboss.ejb3.deployers.JBossASKernel] installing bean: jboss.j2ee:ear=eVergabe.5.3.0.3024.ear,jar=xve-ejb-evc.jar,name=XveEvergabeMessageBean,service=EJB3
+1 NO_STACKTRACE INFO [org.jboss.ejb3.deployers.JBossASKernel] Added bean(jboss.j2ee:ear=eVergabe.5.3.0.3024.ear,jar=vms-ejb.jar,name=VMSInputMessageBean,service=EJB3) to KernelDeployment of: vms-ejb.jar
+1 NO_STACKTRACE INFO [org.jboss.ejb3.deployers.JBossASKernel] Created KernelDeployment for: xve-core.jar
+1 NO_STACKTRACE INFO [org.jboss.ejb3.deployers.JBossASKernel] Added bean(jboss.j2ee:ear=eVergabe.5.3.0.3024.ear,jar=vms-ejb.jar,name=VMSHighPriorityInputMessageBean,service=EJB3) to KernelDeployment of: vms-ejb.jar
+1 NO_STACKTRACE INFO [org.jboss.ejb3.deployers.JBossASKernel] Created KernelDeployment for: vms-ejb.jar
+1 NO_STACKTRACE INFO [org.jboss.ejb3.deployers.JBossASKernel] installing bean: jboss.j2ee:ear=eVergabe.5.3.0.3024.ear,jar=vms-ejb.jar,name=VMSInputMessageBean,service=EJB3
+1 NO_STACKTRACE INFO [org.jboss.ejb3.deployers.JBossASKernel] Added bean(jboss.j2ee:ear=eVergabe.5.3.0.3024.ear,jar=xve-ejb-evc.jar,name=XveEvergabeMessageBean,service=EJB3) to KernelDeployment of: xve-ejb-evc.jar
+1 NO_STACKTRACE INFO [org.jboss.ejb3.deployers.JBossASKernel] installing bean: jboss.j2ee:ear=eVergabe.5.3.0.3024.ear,jar=vms-ejb.jar,name=VMSHighPriorityInputMessageBean,service=EJB3
+1 NO_STACKTRACE INFO [org.jboss.ejb3.deployers.JBossASKernel] Added bean(jboss.j2ee:ear=eVergabe.5.3.0.3024.ear,jar=xve-core.jar,name=XveMessageBean,service=EJB3) to KernelDeployment of: xve-core.jar
+1 NO_STACKTRACE INFO [org.jboss.ejb3.deployers.JBossASKernel] installing bean: jboss.j2ee:ear=eVergabe.5.3.0.3024.ear,jar=xve-core.jar,name=XveMessageBean,service=EJB3
+1 NO_STACKTRACE INFO [org.quartz.core.QuartzScheduler] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+1 NO_STACKTRACE INFO [org.quartz.core.QuartzScheduler] Shutdown Hook) Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutdown complete.
+1 NO_STACKTRACE INFO [org.quartz.core.QuartzScheduler] Shutdown Hook) Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+1 NO_STACKTRACE INFO [org.quartz.core.QuartzScheduler] Shutdown Hook) Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+1 NO_STACKTRACE INFO [org.quartz.core.QuartzScheduler] Quartz Scheduler v.1.5.2 created.
+1 NO_STACKTRACE INFO [org.apache.catalina.startup.Catalina] Server startup in 72 ms
+1 NO_STACKTRACE INFO [org.jboss.virtual.plugins.copy.CopyMechanism] VFS temp dir: /opt/evergabe/jboss-as/server/default/tmp
+1 NO_STACKTRACE INFO [com.csc.evergabe.server.helper.trustcenter.TimerTrustcenterCRLUpdate] aktualisiere Trustcenter DATEV
+1 NO_STACKTRACE INFO [org.jboss.logbridge.LogNotificationListener] Adding notification listener for logging mbean "jboss.system:service=Logging,type=Log4jService" to server org.jboss.mx.server.MBeanServerImpl@2de8bb31[ defaultDomain='jboss' ]
+1 NO_STACKTRACE INFO [com.csc.evergabe.server.timer.TimerBeanCheckSSLClientCerts] Ende execute Service TimerBeanCheckSSLClientCerts
+1 NO_STACKTRACE INFO [com.csc.evergabe.server.timer.TimerBeanCheckSSLClientCerts] Beginn execute Service TimerBeanCheckSSLClientCerts
+1 NO_STACKTRACE INFO [org.apache.myfaces.webapp.AbstractFacesInitializer] ServletContext '/opt/evergabe/jboss-as/server/default/tmp/ak2t4-uiqod4-hjuxhk8s-1-hjuxi9pv-al/xve-web.war/' initialized.
+1 NO_STACKTRACE INFO [org.quartz.simpl.SimpleThreadPool] Job execution threads will use class loader of thread: main
+1 NO_STACKTRACE INFO [org.quartz.simpl.SimpleThreadPool] Shutdown Hook) There are still 137 worker threads active. See javadoc runInThread(Runnable) for a possible explanation
+1 NO_STACKTRACE INFO [org.jboss.web.tomcat.service.deployers.TomcatDeployment] deploy, ctxPath=/admin-console
+1 NO_STACKTRACE INFO [org.jboss.web.tomcat.service.deployers.TomcatDeployment] Shutdown Hook) undeploy, ctxPath=/invoker
+1 NO_STACKTRACE INFO [org.jboss.web.tomcat.service.deployers.TomcatDeployment] Shutdown Hook) undeploy, ctxPath=/admin-console
+1 NO_STACKTRACE INFO [org.jboss.web.tomcat.service.deployers.TomcatDeployment] deploy, ctxPath=/jmx-console
+1 NO_STACKTRACE INFO [org.jboss.web.tomcat.service.deployers.TomcatDeployment] Shutdown Hook) undeploy, ctxPath=/xvergabeexport
+1 NO_STACKTRACE INFO [org.jboss.web.tomcat.service.deployers.TomcatDeployment] deploy, ctxPath=/
+1 NO_STACKTRACE INFO [org.jboss.web.tomcat.service.deployers.TomcatDeployment] deploy, ctxPath=/invoker
+1 NO_STACKTRACE INFO [org.jboss.web.tomcat.service.deployers.TomcatDeployment] deploy, ctxPath=/web-console
+1 NO_STACKTRACE INFO [org.jboss.web.tomcat.service.deployers.TomcatDeployment] Shutdown Hook) undeploy, ctxPath=/jmx-console
+1 NO_STACKTRACE INFO [org.jboss.web.tomcat.service.deployers.TomcatDeployment] Shutdown Hook) undeploy, ctxPath=/web-console
+1 NO_STACKTRACE INFO [org.jboss.web.tomcat.service.deployers.TomcatDeployment] Shutdown Hook) undeploy, ctxPath=/
+1 NO_STACKTRACE INFO [org.jboss.web.tomcat.service.deployers.TomcatDeployment] deploy, ctxPath=/xvergabeexport
+1 NO_STACKTRACE INFO [com.csc.evergabe.server.helper.cluster.health.HealthLayer] state was retrieved successfully
+1 NO_STACKTRACE INFO [com.csc.evergabe.server.helper.cluster.health.HealthManager] Erzeuge Singelton HealthManager
+1 NO_STACKTRACE INFO [org.jboss.system.server.profileservice.ProfileServiceBootstrap] Loading profile: ProfileKey@73df1f78[domain=default, server=default, name=default]
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Shutdown Hook) Unbound admin object at '/evergabe/xve/evergabe/in'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Bound admin object 'org.apache.activemq.command.ActiveMQQueue' at '/evergabe/vms/inQueueHighPriority'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Bound admin object 'org.apache.activemq.command.ActiveMQQueue' at '/evergabe/vms/ExpiryQueue'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Bound admin object 'org.apache.activemq.command.ActiveMQQueue' at '/evergabe/vms/documentStore'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Bound admin object 'org.apache.activemq.command.ActiveMQQueue' at '/evergabe/vms/errorQueue'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Shutdown Hook) Unbound admin object at '/evergabe/vms/inQueue'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Shutdown Hook) Unbound admin object at '/evergabe/vms/outQueueResponses'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Bound admin object 'org.apache.activemq.command.ActiveMQQueue' at '/evergabe/vms/outQueueRequests'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Bound admin object 'org.apache.activemq.command.ActiveMQQueue' at '/evergabe/vms/outQueueResponses'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Bound admin object 'org.apache.activemq.command.ActiveMQQueue' at '/evergabe/vms/DLQ'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Bound admin object 'org.apache.activemq.command.ActiveMQQueue' at '/evergabe/vms/holdQueue'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Shutdown Hook) Unbound admin object at '/evergabe/xve/modul/in'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Bound admin object 'org.apache.activemq.command.ActiveMQQueue' at '/evergabe/xve/evergabe/in'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Shutdown Hook) Unbound admin object at '/evergabe/vms/holdQueue'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Bound admin object 'org.apache.activemq.command.ActiveMQQueue' at '/evergabe/vms/inQueue'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Bound admin object 'org.apache.activemq.command.ActiveMQQueue' at '/evergabe/vms/unansweredEvergabeRequests'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Shutdown Hook) Unbound admin object at '/evergabe/vms/outQueueRequests'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Shutdown Hook) Unbound admin object at '/evergabe/vms/inQueueHighPriority'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Shutdown Hook) Unbound admin object at '/evergabe/vms/ExpiryQueue'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Bound admin object 'org.apache.activemq.command.ActiveMQQueue' at '/evergabe/vms/unacknowledgedEvergabeResponses'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Shutdown Hook) Unbound admin object at '/evergabe/vms/DLQ'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Shutdown Hook) Unbound admin object at '/evergabe/vms/unansweredEvergabeRequests'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Shutdown Hook) Unbound admin object at '/evergabe/vms/errorQueue'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Shutdown Hook) Unbound admin object at '/evergabe/vms/documentStore'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Bound admin object 'org.apache.activemq.command.ActiveMQQueue' at '/evergabe/xve/modul/in'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Bound admin object 'org.apache.activemq.command.ActiveMQQueue' at '/evergabe/vms/waitingQueue'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Bound admin object 'org.apache.activemq.command.ActiveMQQueue' at '/evergabe/vms/evergabeAcknowledgements'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Shutdown Hook) Unbound admin object at '/evergabe/vms/unacknowledgedEvergabeResponses'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Shutdown Hook) Unbound admin object at '/evergabe/vms/evergabeAcknowledgements'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployment.AdminObject] Shutdown Hook) Unbound admin object at '/evergabe/vms/waitingQueue'
+1 NO_STACKTRACE INFO [org.jboss.deployment.dependency.ContainerDependencyMetaData] addJndiDependency, JndiDependencyMetaData@4506ffbb{/evergabe/vms/waitingQueue}
+1 NO_STACKTRACE INFO [org.jboss.deployment.dependency.ContainerDependencyMetaData] addJndiDependency, JndiDependencyMetaData@17d58cae{/evergabe/vms/waitingQueue}
+1 NO_STACKTRACE INFO [org.apache.myfaces.config.FacesConfigurator] Serialization provider : class org.apache.myfaces.shared_impl.util.serial.DefaultSerialFactory
+1 NO_STACKTRACE INFO [org.apache.myfaces.config.FacesConfigurator] MyFaces-package : jsp-api not found.
+1 NO_STACKTRACE INFO [org.apache.myfaces.config.FacesConfigurator] MyFaces-package : myfaces-impl not found.
+1 NO_STACKTRACE INFO [org.apache.myfaces.config.FacesConfigurator] MyFaces-package : tomahawk12 not found.
+1 NO_STACKTRACE INFO [org.apache.myfaces.config.FacesConfigurator] MyFaces-package : trinidad-api not found.
+1 NO_STACKTRACE INFO [org.apache.myfaces.config.FacesConfigurator] MyFaces-package : tobago not found.
+1 NO_STACKTRACE INFO [org.apache.myfaces.config.FacesConfigurator] MyFaces-package : tomahawk-sandbox15 not found.
+1 NO_STACKTRACE INFO [org.apache.myfaces.config.FacesConfigurator] MyFaces-package : tomahawk-sandbox12 not found.
+1 NO_STACKTRACE INFO [org.apache.myfaces.config.FacesConfigurator] Reading standard config META-INF/standard-faces-config.xml
+1 NO_STACKTRACE INFO [org.apache.myfaces.config.FacesConfigurator] Reading config /WEB-INF/faces-config.xml
+1 NO_STACKTRACE INFO [org.apache.myfaces.config.FacesConfigurator] MyFaces-package : myfaces-api not found.
+1 NO_STACKTRACE INFO [org.apache.myfaces.config.FacesConfigurator] Reading config : vfsfile:/opt/evergabe/jboss-as/server/default/deploy/eVergabe.5.3.0.3024.ear/xve-web.war/WEB-INF/lib/tomahawk12-1.1.9.jar/META-INF/faces-config.xml
+1 NO_STACKTRACE INFO [org.apache.myfaces.config.FacesConfigurator] MyFaces-package : myfaces-orchestra-core12 not found.
+1 NO_STACKTRACE INFO [org.apache.myfaces.config.FacesConfigurator] MyFaces-package : trinidad-impl not found.
+1 NO_STACKTRACE INFO [org.apache.myfaces.config.FacesConfigurator] MyFaces-package : myfaces-orchestra-core not found.
+1 NO_STACKTRACE INFO [org.apache.myfaces.config.FacesConfigurator] MyFaces-package : tomahawk not found.
+1 NO_STACKTRACE INFO [org.apache.myfaces.config.FacesConfigurator] MyFaces-package : commons-el not found.
+1 NO_STACKTRACE INFO [org.apache.myfaces.config.FacesConfigurator] MyFaces-package : tomahawk-sandbox not found.
+1 NO_STACKTRACE INFO [org.quartz.simpl.RAMJobStore] RAMJobStore initialized.
+1 NO_STACKTRACE INFO [org.jboss.ejb3.EJBContainer] Shutdown Hook) STOPPED EJB: com.csc.evergabe.server.vms.ejb.VMSHighPriorityInputMessageBean ejbName: VMSHighPriorityInputMessageBean
+1 NO_STACKTRACE INFO [org.jboss.ejb3.EJBContainer] Shutdown Hook) STOPPED EJB: com.csc.evergabe.server.xve.XveEvergabeMessageBean ejbName: XveEvergabeMessageBean
+1 NO_STACKTRACE INFO [org.jboss.ejb3.EJBContainer] STARTED EJB: com.csc.evergabe.server.xve.XveEvergabeMessageBean ejbName: XveEvergabeMessageBean
+1 NO_STACKTRACE INFO [org.jboss.ejb3.EJBContainer] STARTED EJB: com.csc.evergabe.xve.ejb.impl.XveMessageBean ejbName: XveMessageBean
+1 NO_STACKTRACE INFO [org.jboss.ejb3.EJBContainer] STARTED EJB: com.csc.evergabe.server.vms.ejb.VMSHighPriorityInputMessageBean ejbName: VMSHighPriorityInputMessageBean
+1 NO_STACKTRACE INFO [org.jboss.ejb3.EJBContainer] Shutdown Hook) STOPPED EJB: com.csc.evergabe.server.vms.ejb.VMSInputMessageBean ejbName: VMSInputMessageBean
+1 NO_STACKTRACE INFO [org.jboss.ejb3.EJBContainer] STARTED EJB: com.csc.evergabe.server.vms.ejb.VMSInputMessageBean ejbName: VMSInputMessageBean
+1 NO_STACKTRACE INFO [org.jboss.ejb3.EJBContainer] Shutdown Hook) STOPPED EJB: com.csc.evergabe.xve.ejb.impl.XveMessageBean ejbName: XveMessageBean
+1 NO_STACKTRACE INFO [org.apache.myfaces.shared_impl.config.MyfacesConfig] No context init parameter 'org.apache.myfaces.VIEWSTATE_JAVASCRIPT' found, using default value false
+1 NO_STACKTRACE INFO [org.apache.myfaces.shared_impl.config.MyfacesConfig] No context init parameter 'org.apache.myfaces.CONFIG_REFRESH_PERIOD' found, using default value 2
+1 NO_STACKTRACE INFO [org.apache.myfaces.shared_impl.config.MyfacesConfig] Starting up Tomahawk on the MyFaces-JSF-Implementation
+1 NO_STACKTRACE INFO [org.apache.myfaces.shared_impl.config.MyfacesConfig] Starting up Tomahawk on the RI-JSF-Implementation.
+1 NO_STACKTRACE INFO [org.apache.myfaces.shared_impl.config.MyfacesConfig] No context init parameter 'org.apache.myfaces.RESOURCE_VIRTUAL_PATH' found, using default value /faces/myFacesExtensionResource
+1 NO_STACKTRACE INFO [org.apache.myfaces.shared_impl.config.MyfacesConfig] No context init parameter 'org.apache.myfaces.SAVE_FORM_SUBMIT_LINK_IE' found, using default value false
+1 NO_STACKTRACE INFO [org.apache.myfaces.shared_impl.config.MyfacesConfig] No context init parameter 'org.apache.myfaces.DETECT_JAVASCRIPT' found, using default value false
+1 NO_STACKTRACE INFO [org.apache.myfaces.shared_impl.config.MyfacesConfig] No context init parameter 'org.apache.myfaces.RENDER_HIDDEN_FIELDS_FOR_LINK_PARAMS' found, using default value false
+1 NO_STACKTRACE INFO [org.apache.myfaces.shared_impl.config.MyfacesConfig] No context init parameter 'org.apache.myfaces.PRETTY_HTML' found, using default value true
+1 NO_STACKTRACE INFO [org.apache.myfaces.shared_impl.config.MyfacesConfig] No context init parameter 'org.apache.myfaces.RENDER_CLEAR_JAVASCRIPT_FOR_BUTTON' found, using default value false
+1 NO_STACKTRACE INFO [org.apache.myfaces.shared_impl.config.MyfacesConfig] No context init parameter 'org.apache.myfaces.AUTO_SCROLL' found, using default value false
+1 NO_STACKTRACE INFO [org.apache.myfaces.shared_impl.config.MyfacesConfig] No context init parameter 'org.apache.myfaces.RENDER_VIEWSTATE_ID' found, using default value true
+1 NO_STACKTRACE INFO [org.apache.myfaces.shared_impl.config.MyfacesConfig] No context init parameter 'org.apache.myfaces.ALLOW_JAVASCRIPT' found, using default value true
+1 NO_STACKTRACE INFO [org.apache.myfaces.shared_impl.config.MyfacesConfig] No context init parameter 'org.apache.myfaces.READONLY_AS_DISABLED_FOR_SELECTS' found, using default value true
+1 NO_STACKTRACE INFO [org.apache.myfaces.shared_impl.config.MyfacesConfig] No context init parameter 'org.apache.myfaces.ADD_RESOURCE_CLASS' found, using default value org.apache.myfaces.renderkit.html.util.DefaultAddResource
+1 NO_STACKTRACE INFO [org.apache.myfaces.shared_impl.config.MyfacesConfig] No context init parameter 'org.apache.myfaces.STRICT_XHTML_LINKS' found, using default value true
+1 NO_STACKTRACE INFO [javax.enterprise.resource.webcontainer.jsf.config] Initializing Mojarra (1.2_13-b01-FCS) for context '/admin-console'
+1 NO_STACKTRACE INFO [org.jboss.resource.deployers.RARDeployment] Required license terms exist, view vfsfile:/opt/evergabe/jboss-as/server/default/deploy/mail-ra.rar/META-INF/ra.xml
+1 NO_STACKTRACE INFO [org.jboss.resource.deployers.RARDeployment] Required license terms exist, view vfsfile:/opt/evergabe/jboss-as/server/default/deploy/jboss-local-jdbc.rar/META-INF/ra.xml
+1 NO_STACKTRACE INFO [org.jboss.resource.deployers.RARDeployment] Required license terms exist, view vfsfile:/opt/evergabe/jboss-as/server/default/deploy/quartz-ra.rar/META-INF/ra.xml
+1 NO_STACKTRACE INFO [org.jboss.resource.deployers.RARDeployment] Required license terms exist, view vfsfile:/opt/evergabe/jboss-as/server/default/deploy/evergabe-jms-ra.rar/META-INF/ra.xml
+1 NO_STACKTRACE INFO [org.jboss.resource.deployers.RARDeployment] Required license terms exist, view vfsfile:/opt/evergabe/jboss-as/server/default/deploy/jboss-xa-jdbc.rar/META-INF/ra.xml
+1 NO_STACKTRACE INFO [org.jboss.resource.deployers.RARDeployment] Required license terms exist, view vfsfile:/opt/evergabe/jboss-as/server/default/deploy/jms-ra.rar/META-INF/ra.xml
+1 NO_STACKTRACE INFO [com.csc.evergabe.server.timer.TimerBeanDoConsistencyCheckScheduler] Ende execute Service TimerBeanDoConsistencyCheckScheduler
+1 NO_STACKTRACE INFO [com.csc.evergabe.server.timer.TimerBeanDoConsistencyCheckScheduler] Beginn execute Service TimerBeanDoConsistencyCheckScheduler
+1 NO_STACKTRACE INFO [org.jboss.mail.MailService] Shutdown Hook) Mail service 'java:/Mail' removed from JNDI
+1 NO_STACKTRACE INFO [org.jboss.mail.MailService] Mail Service bound to java:/Mail
+1 NO_STACKTRACE INFO [org.apache.catalina.core.StandardEngine] Starting Servlet Engine: JBoss Web/2.1.13.GA-patch-01
+1 NO_STACKTRACE INFO [org.jboss.jdbc.HypersonicDatabase] Shutdown Hook) Database standalone closed clean
+1 NO_STACKTRACE WARN [com.csc.evergabe.server.helper.cluster.health.HealthManager] Monitor Produktionscluster_PROD unhealty
+1 NO_STACKTRACE WARN [com.csc.evergabe.server.ejb.eVergabeMonitorBean] Die Anzahl der Verfahren muss manuell (ohne Timer) neu erstellt werden.
+1 NO_STACKTRACE WARN [org.apache.myfaces.shared_impl.util.LocaleUtils] Locale name in faces-config.xml null or empty, setting locale to default locale : de_DE
+1 NO_STACKTRACE WARN [org.apache.fop.layoutmgr.BreakingAlgorithm] Line 1 of a paragraph overflows the available area. (fo:block, "11.")
+1 NO_STACKTRACE WARN [org.apache.fop.layoutmgr.BreakingAlgorithm] Line 1 of a paragraph overflows the available area. (fo:block, "10.")
+1 NO_STACKTRACE WARN [org.apache.fop.layoutmgr.BreakingAlgorithm] Line 1 of a paragraph overflows the available area. (fo:block, "13.")
+1 NO_STACKTRACE WARN [org.apache.fop.layoutmgr.BreakingAlgorithm] Line 1 of a paragraph overflows the available area. (fo:block, "12.")
